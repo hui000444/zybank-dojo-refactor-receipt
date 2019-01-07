@@ -3,7 +3,7 @@
 ## 使用方式
 
 - 推荐使用vscode来作为此练习的IDE。可以去官网下载https://code.visualstudio.com/
-- 建议使用快捷键进行重构 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+- 建议使用快捷键进行重构 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 - 请提前安装好node的v8.12.0版本（版本更高也可以）
 - 请提前下载好代码，并运行npm install
 - 运行npm test查看测试
